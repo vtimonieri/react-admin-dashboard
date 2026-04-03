@@ -18,7 +18,7 @@ export default function Navbar() {
   return (
     <nav
       style={{
-        backgroundColor: "#222",
+        backgroundColor: "#4CAF50",
         padding: "1rem",
         color: "white",
       }}
